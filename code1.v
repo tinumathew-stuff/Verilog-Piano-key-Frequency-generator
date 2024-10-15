@@ -1,5 +1,5 @@
 module keyselector(A,B,C,D,E,F,G,H,I,J,K,L,key,clock);
-
+//Ik the code is not readable, I didn't get enough time to make it readable
 
 task testclock(input integer key,output real timerr);
 real y;
